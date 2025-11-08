@@ -1,0 +1,49 @@
+# .NET build artifacts
+bin/
+obj/
+TestResults/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Visual Studio Code workspace settings
+.vscode/
+
+# Rider project files
+.idea/
+
+# NuGet packages
+*.nupkg
+*.snupkg
+packages/
+.nuget/
+
+# Build logs
+*.log
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Resharper files
+*.DotSettings.user
+
+# VS for Mac
+*.pidb
+*.userprefs
+
+# Backup & temp files
+*.bak
+*.tmp
+
+# Other IDEs
+*.vs/
+
+# Coverage reports
+coverage/
+*.coverage
+*.coveragexml
+
+# Publish output
+publish/
